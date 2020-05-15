@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="xeckers">
+      <UniqueIdentifier>{9A02E10B-06E2-5FA7-0FFA-EA7D7B58C608}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\xeckers\Log.h">
+      <Filter>xeckers</Filter>
+    </ClInclude>
+    <ClInclude Include="src\xeckers\xeckers.h">
+      <Filter>xeckers</Filter>
+    </ClInclude>
+    <ClInclude Include="src\xeckerspch.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\xeckerspch.cpp" />
+  </ItemGroup>
+</Project>

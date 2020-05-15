@@ -1,0 +1,3 @@
+[submodule "xeckers/vendor/spdlog"]
+	path = xeckers/vendor/spdlog
+	url = https://github.com/gabime/spdlog
